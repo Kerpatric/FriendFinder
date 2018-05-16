@@ -2,7 +2,7 @@
 var friendsData = [
 	{
 		name: 'Dak Dak',
-		photo: 'https://goo.gl/images/D4oVX8',
+		photo: 'https://vignette.wikia.nocookie.net/starwars/images/a/a8/Dak-hd.png/revision/latest?cb=20130324023716',
 		scores: [
       '1',
 			'2',
@@ -18,7 +18,7 @@ var friendsData = [
 	},
 	{
 		name: 'Mickey Miiiike',
-		photo: 'https://goo.gl/images/Gy5tbq',
+		photo: 'http://funds.gfmcdn.com/13885893_1471810445.6344.jpg',
 		scores: [
 			'1',
 			'1',
